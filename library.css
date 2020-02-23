@@ -1,0 +1,150 @@
+/*shadow*/
+.shade{
+    /* SHADOW_DIVS_OR_SPAN_OR_BODY */
+    text-shadow: 2px 2px 2px;
+}
+/*opacity*/
+.opacity1{
+    opacity:1;
+}
+.opacity0{
+    opacity:0;
+}
+.opacity05{
+    opacity:0.5;
+}
+/*highlights*/
+.highlight{
+    /* SPAN_ONLY */
+    background-color: #FFFF00;
+}
+/*formatting*/
+.center{
+    /* UNSTABLE */
+    margin: auto;
+}
+.centertext{
+    /* TEXT_ONLY_UNSTABLE */
+    text-align: center;
+}
+/*text colors*/
+.red{
+    /* TEXT_ONLY */
+    color: red;
+}
+.blue{
+    /* TEXT_ONLY */
+    color:blue;
+}
+.yellow{
+    /* TEXT_ONLY */
+    color:yellow;
+}
+.black{
+    /* TEXT_ONLY */
+    color:black;
+}
+.white{
+    /* TEXT_ONLY */
+    color:white;
+}
+.whitesmoke{
+    /* TEXT_ONLY */
+    color:whitesmoke;
+}
+.pink{
+    /* TEXT_ONLY */
+    color:pink;
+}
+.teal{
+    /* TEXT_ONLY */
+    color:teal;
+}
+.lime{
+    /* TEXT_ONLY */
+    color:lime;
+}
+.limegreen{
+    /* TEXT_ONLY */
+    color:limegreen;
+}
+.grey{
+    /* TEXT_ONLY */
+    color:grey;
+}
+.gold{
+    /* TEXT_ONLY */
+    color:gold;
+}
+.goldenrod{
+    /* TEXT_ONLY */
+    color:goldenrod;
+}
+.greenyellow{
+    /* TEXT_ONLY */
+    color:greenyellow;
+}
+.aqua{
+    /* TEXT_ONLY */
+    color:aqua;
+}
+.brown{
+    /* TEXT_ONLY */
+    color:brown;
+}
+.burlywood{
+    /* TEXT_ONLY */
+    color:burlywood;
+}
+.indigo{
+    /* TEXT_ONLY */
+    color:indigo;
+}
+ /*text decorations*/
+.line-through{
+    /* untested */
+    text-decoration: line-through;
+}
+.underline{
+    /* untested */
+    text-decoration: underline;
+}
+.underlineoverline{
+    /* UNTESTED */
+    text-decoration: underline overline;
+}
+/*Invert Classes*/
+.inverthover:hover{
+    filter: invert(100%);
+}
+.invert{
+    filter: invert(100%);
+}
+/*Backgrounds*/
+.bgblue{
+    background-color: blue;
+}
+.bgred{
+    background-color: red;
+}
+.bgblack{
+    background-color: black;
+}
+.bgpink{
+    background-color: pink;
+}
+.bgyellow{
+    background-color: yellow;
+}
+.bgteal{
+    background-color: teal;
+}
+.bgwhite{
+    background-color: white;
+}
+.bggreen{
+    background-color: green;
+}
+.bgolive{
+    background-color: olive;
+}
